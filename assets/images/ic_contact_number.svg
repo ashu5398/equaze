@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="26.5" viewBox="0 0 24 26.5">
+  <g id="ic_contact_number" transform="translate(-16 -16)">
+    <path id="Image" d="M12,24A12,12,0,1,0,0,12,12.035,12.035,0,0,0,12,24Z" transform="translate(16 16)" fill="#eed29d"/>
+    <g id="security" transform="translate(-37.116 19.5)">
+      <path id="Path_152" data-name="Path 152" d="M192.286,51.586l-5.156,2.176V66.186l5.169,2.267,5.169-2.267V53.762Z" transform="translate(-127.276 -45.453)" fill="#d3b680"/>
+      <path id="Path_153" data-name="Path 153" d="M187.129,51.586v2.176h0V60a5.624,5.624,0,0,0,.781-.593,6.85,6.85,0,0,0,1.389-1.785,8.561,8.561,0,0,0,.843-2.263,9.531,9.531,0,0,0,.225-2.067v-1.71Z" transform="translate(-127.275 -45.453)" fill="#eed29d" opacity="0.66"/>
+      <path id="Path_154" data-name="Path 154" d="M197,52a1.512,1.512,0,0,0-1.047-.419h-8.819v2.176h10.338V53.1A1.512,1.512,0,0,0,197,52Z" transform="translate(-127.275 -45.453)" fill="#d89618"/>
+      <path id="Path_155" data-name="Path 155" d="M190.355,53.762c.007-.155.012-.31.012-.467v-1.71h-3.238v2.176h3.226Z" transform="translate(-127.275 -45.453)" fill="#c58917"/>
+      <path id="Path_157" data-name="Path 157" d="M188.417,450.116H187.13v.749a1.518,1.518,0,0,0,1.518,1.518h7.3a1.518,1.518,0,0,0,1.518-1.518v-.749Z" transform="translate(-127.276 -429.383)" fill="#d89618"/>
+      <path id="Path_158" data-name="Path 158" d="M310.576,463.112a.657.657,0,1,0,.657.657A.658.658,0,0,0,310.576,463.112Z" transform="translate(-245.566 -441.903)" fill="#91300e"/>
+    </g>
+  </g>
+</svg>
